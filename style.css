@@ -1,0 +1,51 @@
+.firstdiv{
+ background-color: white;  
+ background-image: url("https://previews.123rf.com/images/booblgum/booblgum1707/booblgum170700276/82522105-delhi-india-skyline-with-color-buildings-blue-sky-and-reflections-vector-illustration-business-trave.jpg");
+}
+.main{
+    height:500px; 
+    width:350px; 
+    margin-top:-30px;
+    background: solid white; 
+    overflow-y: scroll; 
+    border:1px solid black;  
+    background-color: white;
+} 
+
+.bo{
+    margin-left:1030px; 
+    text-overflow: scroll; 
+    margin-top: 60px;
+
+}
+#vinput{   
+    position: fixed;
+    margin-top:10px; 
+    width:250px;
+} 
+.send{   
+    position: fixed;
+    margin-top:10px; 
+    margin-left:280px;
+}
+.heading{
+    color:black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 45px; 
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    text-shadow: 3px;
+}  
+#receive p{
+    color:green;  
+    border-radius: 10px; 
+    font-weight:bold;
+} 
+#output p{
+    text-align: left; 
+    color:red; 
+    border-radius: 10px; 
+    font-weight: bold;
+}

@@ -1,0 +1,40 @@
+.black{
+    background-color:black;
+   color: white;
+   margin-bottom: 2%;
+   margin-top: 2%;
+  }
+  .white{
+    background-color:wheat;
+    color : black;
+     
+  }
+  .blue{
+    background-color:rgb(139, 215, 238);
+    color : rgb(8, 88, 8);
+  }
+  .green{
+    background-color:rgb(148, 238, 148);
+    color : rgb(38, 7, 124);
+  }
+  .yelo{
+    background-color:rgb(202, 135, 241);
+    color : rgb(131, 4, 63);
+  }
+  .pink{
+    background-color:rgb(158, 245, 216);
+    color : rgb(128, 39, 3);
+  }
+  .bro{
+    background-color:rgb(238, 175, 171);
+    color : rgb(12, 4, 1);
+  }
+  .gray{
+    background-color:rgb(96, 138, 124);
+    color : rgb(99, 10, 51);
+  }
+  .tittle{
+    align-self: center;
+    color: brown;
+    font-style: bold;
+  }
